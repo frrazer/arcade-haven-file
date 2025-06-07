@@ -5,6 +5,8 @@
 ![Status](https://img.shields.io/badge/status-archived-lightgrey)
 ![License](https://img.shields.io/badge/license-Educational_Use_Only-blue)
 
+![image](https://github.com/user-attachments/assets/26d57815-787d-4432-9131-cd4323228e0f)
+
 ---
 
 ## 📦 About This Release
