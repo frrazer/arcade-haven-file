@@ -1,3 +1,5 @@
+![github banner](https://github.com/user-attachments/assets/845118f1-b7bf-4bc9-a289-ab02b66217ba)
+
 # 🎮 Arcade Haven (Legacy Dump)
 
 > a legacy drop from **Novaware**, for **educational use ONLY**. not plug-and-play. not maintained. not our problem.
