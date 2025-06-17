@@ -5,7 +5,12 @@
 ![Status](https://img.shields.io/badge/status-archived-lightgrey)
 ![License](https://img.shields.io/badge/license-Educational_Use_Only-blue)
 
-![image](https://github.com/user-attachments/assets/26d57815-787d-4432-9131-cd4323228e0f)
+---
+
+## 👀 thinking of making a game with this file?
+
+don’t. seriously. it’s crawling with unpatched dupes, network jank, and security holes, we’re probably gonna exploit them just for fun.
+BUT if you add cool updates or new content, we’d love to see it. drop a [new issue](https://github.com/frrazer/arcade-haven-file/issues/new) to show it off.
 
 ---
 
