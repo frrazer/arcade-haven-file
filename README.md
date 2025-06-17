@@ -1,5 +1,7 @@
 ![github banner](https://github.com/user-attachments/assets/f9a775e2-7b08-4b06-b098-8e30fbbdf68b)
 
+Fortune Frenzy is what Arcade Haven was meant to be. Join here: https://discord.gg/ZWcu8vUh5E
+
 # 🎮 Arcade Haven (Legacy Dump)
 
 > a legacy drop from **Novaware**, for **educational use ONLY**. not plug-and-play. not maintained. not our problem.
