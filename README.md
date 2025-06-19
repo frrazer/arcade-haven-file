@@ -20,10 +20,13 @@
 ---
 
 ## ⚠️ About DMCA
+yes, someone is still trying to fake DMCA takedowns of Arcade Haven reuploads. 
 
-there *is* a known bad actor falsely DMCA’ing reuploads of Arcade Haven.
-yes, it's real.
-no, your project isn't getting taken down. you're safe.
+**no, they *don’t* have rights.**
+**no, it *won’t* work.** 
+**your project is safe.**
+
+**Novaware will never issue takedowns** for Arcade Haven content. we don’t police what we already gave away—some people just can’t let go. 
 
 ---
 
